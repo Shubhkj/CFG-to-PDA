@@ -1,6 +1,6 @@
 import tkinter as tk
 
-def convert_cfg_to_pda():
+def convert_abc_to_pda():
     cfg_rules = input_text.get("1.0", "end-1c").split('\n')
     pda_rules = []
 

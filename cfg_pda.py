@@ -1,5 +1,5 @@
 def main():
-    n = int(input("Enter the of Production Rules of CFG: "))
+    n = int(input("Enter the number of Production Rules of CFG: "))
     v = []
 
     print("Please enter the Production rules of CFG:")
